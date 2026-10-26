@@ -1,0 +1,4 @@
+SE Daily_Usage_Hours > 6 E (Anxiety_Score > 6 OU Depression_Score > 6) ENTAO Addiction_Level = 3
+SE Daily_Usage_Hours > 4 E FOMO_Score > 5 E Sleep_Quality_Score < 5 ENTAO Addiction_Level = 2
+SE Daily_Usage_Hours < 3 E Mental_Wellbeing_Score > 7 ENTAO Addiction_Level = 0
+CASO CONTRÁRIO ENTAO Addiction_Level = 1
