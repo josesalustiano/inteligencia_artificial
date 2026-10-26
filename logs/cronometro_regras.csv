@@ -1,5 +1,4 @@
 Sessao,Data,Tempo_Minutos,Quantidade_Regras,Observacao
-
-1,26-10-2026,12,3,Incompatibilidade de rotulos com o dataset
-
-2, 26-10-2626, 2 minutos
+1,26-10-2026,18,3,Criacao inicial das regras e entendimento do erro de rotulos
+2,26-10-2026,12,4,Mapeamento das colunas reais e ajuste da logica numerica
+3,26-10-2026,15,4,Inclusao de variaveis psicologicas e teste final do motor
