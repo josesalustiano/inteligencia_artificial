@@ -2,3 +2,6 @@ Sessao,Data,Tempo_Minutos,Quantidade_Regras,Observacao
 1,26-10-2026,18,3,Criacao inicial das regras e entendimento do erro de rotulos
 2,26-10-2026,12,4,Mapeamento das colunas reais e ajuste da logica numerica
 3,26-10-2026,15,4,Inclusao de variaveis psicologicas e teste final do motor
+4,26-10-2026,20,3,Definicao das faixas numericas e estimativa da variavel alvo de regressao
+5,26-10-2026,14,4,Ajuste dos valores continuos nas regras de regressao com base no treino
+6,26-10-2026,16,3,Refinamento dos intervalos e validacao manual das heurísticas de regressao
