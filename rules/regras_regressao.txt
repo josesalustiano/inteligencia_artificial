@@ -1,0 +1,3 @@
+REGRA 1 (Heurística): SE Mental_Wellbeing_Score <= -0.5 ENTÃO Target_Regressao = 8.5
+REGRA 2 (Relação): SE Mental_Wellbeing_Score > -0.5 E Mental_Wellbeing_Score <= 0.5 ENTÃO Target_Regressao = 5.0
+REGRA 3 (Diretriz): SE Mental_Wellbeing_Score > 0.5 ENTÃO Target_Regressao = 2.0
