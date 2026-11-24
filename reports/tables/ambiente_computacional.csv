@@ -1,0 +1,2 @@
+SO,Processador,Nucleos_fisicos,Nucleos_logicos,RAM_total_GB,Python,PyTorch,Torch_num_threads,CUDA_disponivel
+Windows 11,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",2,4,3.73,3.13.5,2.15.0+cpu,2,False

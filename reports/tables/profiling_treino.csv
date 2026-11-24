@@ -1,0 +1,3 @@
+Tarefa,Epocas_executadas,Tempo_treino_s,RAM_treino_MB,Energia_treino_kWh,CO2_treino_g
+regressao,39,2.158,312.77,2.6974653750221475e-05,0.0012354391417601434
+classificacao,23,1.5358,304.44,1.919765874990844e-05,0.0008792527707458064

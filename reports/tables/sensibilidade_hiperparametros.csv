@@ -1,0 +1,17 @@
+Tarefa,Hiperparametro,Melhor_Valor,Impacto_Max_Min,Desvio_Medio_Sementes,Efeito_Real
+classificacao,Otimizador,SGD_momentum,0.29777,0.02245,Sim
+classificacao,Learning_Rate,0.001,0.03076,0.01228,Sim
+classificacao,Batch_Size,128,0.02666,0.01224,Sim
+classificacao,Ativacao,Tanh,0.02471,0.00762,Sim
+classificacao,Weight_Decay,0.01,0.02424,0.00909,Sim
+classificacao,Neuronios,128,0.01896,0.01161,Sim
+classificacao,Dropout,0.1,0.01589,0.00904,Sim
+classificacao,Camadas,2,0.01253,0.01054,Sim
+regressao,Learning_Rate,0.1,0.07959,0.01488,Sim
+regressao,Neuronios,8,0.07867,0.02335,Sim
+regressao,Dropout,0.3,0.07824,0.00569,Sim
+regressao,Otimizador,SGD_momentum,0.0653,0.01565,Sim
+regressao,Weight_Decay,0.01,0.06456,0.01629,Sim
+regressao,Camadas,1,0.06299,0.01147,Sim
+regressao,Ativacao,GELU,0.05334,0.01354,Sim
+regressao,Batch_Size,8,0.02712,0.01222,Sim

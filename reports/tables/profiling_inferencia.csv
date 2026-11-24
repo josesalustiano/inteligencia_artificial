@@ -1,0 +1,3 @@
+Tarefa,Parametros,Camadas_Lineares,MACs_por_amostra,Tamanho_disco_KB,Tamanho_teorico_float32_KB,Lote_tempo_medio_ms,Lote_tempo_std_ms,Lote_ms_por_amostra,Lote_vazao_amostras_s,Unit_tempo_medio_ms,Unit_vazao_amostras_s,RAM_inf_MB,Energia_inf_lote_kWh,CO2_inf_lote_g
+regressao,2049,3,1984,12.7,8.0,0.1838,0.035,0.00061,1632653.1,0.9014,1109.3,305.53,2.296875002987993e-09,1.0519687513685008e-07
+classificacao,6340,3,6208,29.69,24.77,0.1002,0.0023,0.00033,2994510.1,0.0467,21402.6,306.05,1.2522916464755934e-09,5.7354957408582174e-08
