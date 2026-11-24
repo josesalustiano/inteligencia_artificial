@@ -1,0 +1,9 @@
+Hiperparametro,Melhor_Val,Pior_Val,Impacto_Delta,Std_Medio_Sementes,Significativo
+Otimizador,0.7404,0.4426,0.2978,0.0224,Sim
+Learning_Rate,0.7324,0.7017,0.0308,0.0123,Sim
+Batch_Size,0.7333,0.7066,0.0267,0.0122,Sim
+Ativacao,0.7527,0.728,0.0247,0.0076,Sim
+Weight_Decay,0.7488,0.7245,0.0242,0.0091,Sim
+Neuronios,0.7433,0.7243,0.019,0.0116,Sim
+Dropout,0.7412,0.7253,0.0159,0.009,Sim
+Camadas,0.7324,0.7199,0.0125,0.0105,Sim
